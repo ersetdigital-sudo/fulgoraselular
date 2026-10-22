@@ -483,8 +483,8 @@ export function detectOperator(number: string) {
 }
 
 export const SITE_CONTACT = {
-  whatsapp: "6281200000000",
-  whatsappDisplay: "0812-0000-0000",
+  whatsapp: "6285711172317",
+  whatsappDisplay: "0857-1117-2317",
   email: "halo@fulgoraseluler.id",
 };
 

@@ -137,10 +137,10 @@ export default function TermsPage() {
         <p>
           Pertanyaan mengenai ketentuan ini dapat disampaikan ke{" "}
           <a
-            href="https://wa.me/6281200000000"
+            href="https://wa.me/6285711172317"
             className="font-semibold text-brand underline underline-offset-2"
           >
-            WhatsApp 0812-0000-0000
+            WhatsApp 0857-1117-2317
           </a>{" "}
           pada jam 08.00–22.00 WIB.
         </p>

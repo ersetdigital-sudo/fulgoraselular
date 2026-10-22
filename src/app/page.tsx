@@ -314,7 +314,7 @@ export default function Home() {
               Tidak menemukan jawabannya? WhatsApp kami siap bantu di jam kerja.
             </p>
             <a
-              href="https://wa.me/6281200000000"
+              href="https://wa.me/6285711172317"
               className="mt-5 inline-flex min-h-11 items-center gap-2 rounded-xl border border-line bg-white px-4 text-sm font-bold text-ink transition hover:border-brand hover:text-brand"
             >
               <MessageCircle size={16} aria-hidden="true" />

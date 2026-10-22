@@ -186,7 +186,7 @@ export function PaymentVerification({ order }: { order: VerificationOrder }) {
 
         <section className="flex flex-col gap-2.5 rounded-2xl border border-line bg-white p-4 sm:flex-row">
           <a
-            href={`https://wa.me/6281200000000?text=${encodeURIComponent(
+            href={`https://wa.me/6285711172317?text=${encodeURIComponent(
               `Halo fulgora seluler, saya sudah membayar invoice ${order.invoice} sebesar ${rupiah(order.total)}.`,
             )}`}
             target="_blank"

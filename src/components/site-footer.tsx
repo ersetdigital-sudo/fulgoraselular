@@ -71,10 +71,10 @@ export function SiteFooter() {
               </li>
               <li className="pt-2">
                 <a
-                  href="https://wa.me/6281200000000"
+                  href="https://wa.me/6285711172317"
                   className="font-semibold text-brand transition-colors hover:text-brand-dark"
                 >
-                  0812-0000-0000
+                  0857-1117-2317
                   <span className="mt-0.5 block text-xs font-normal text-faint">
                     WhatsApp, 08.00–22.00
                   </span>
