@@ -89,9 +89,15 @@ export function SiteFooter() {
             © <CopyrightYear /> fulgora seluler. Transaksi pada situs ini masih simulasi.
           </p>
           <p className="flex flex-wrap gap-x-4 gap-y-1">
-            <span>Privasi</span>
-            <span>Syarat &amp; Ketentuan</span>
-            <span>Kebijakan Privasi</span>
+            <Link href="/privasi" className="transition-colors hover:text-brand">
+              Privasi
+            </Link>
+            <Link href="/syarat-ketentuan" className="transition-colors hover:text-brand">
+              Syarat &amp; Ketentuan
+            </Link>
+            <Link href="/kebijakan-privasi" className="transition-colors hover:text-brand">
+              Kebijakan Privasi
+            </Link>
           </p>
         </div>
       </div>
